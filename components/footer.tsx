@@ -27,7 +27,7 @@ export default function Footer() {
         >
           <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-center md:text-left">
             {/* Copyright */}
-            <div className="text-gray-400 text-sm">© {currentYear} Arya Risianto. All rights reserved.</div>
+            <div className="text-gray-400 text-sm">© {currentYear} Arya Ristianto. All rights reserved.</div>
 
             {/* Links */}
             {/* <div className="flex items-center gap-6 text-sm">
