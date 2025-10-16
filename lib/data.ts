@@ -12,7 +12,7 @@ export const experienceData = [
       "Engaged in understanding the fundamental workflow of web applications and data management.",
 
     ],
-    date: "Oct 2024 - Present",
+    date: "Jul 2024 — Sep 2024",
   },
   {
     title: "Freelancer",
@@ -22,7 +22,7 @@ export const experienceData = [
       "Designed and Developed web applications using modern technologies like Next.js, TypeScript, and Tailwind CSS.",
       "Configured AWS services, such as EC2, S3, and Amplify, to streamline development and deployment processes.",
     ],
-    date: "Aug 2023 - Oct 2024",
+    date: "Aug 2023 - Present",
   },
 ] as const;
 
