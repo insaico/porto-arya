@@ -52,7 +52,7 @@ const NavBar = () => {
             <div className="relative h-8 w-8 md:h-10 md:w-10 rounded-full overflow-hidden border border-border/40">
               <Image
                 src="/images/profile-image.png"
-                alt="Arya Risianto"
+                alt="Arya Ristianto"
                 fill
                 className="object-cover hover:scale-110 transition-transform duration-300"
                 sizes="(max-width: 768px) 32px, 40px"
@@ -63,7 +63,7 @@ const NavBar = () => {
               href="/"
               className="text-base md:text-lg font-semibold bg-gradient-to-r from-blue-400 to-violet-400 bg-clip-text text-transparent hover:opacity-80 transition-opacity truncate max-w-[160px] md:max-w-none"
             >
-              Arya Risianto
+              Arya Ristianto
             </Link>
           </motion.div>
 
